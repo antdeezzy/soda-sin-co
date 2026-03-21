@@ -103,7 +103,7 @@ export default function SodaSinCoWebsite() {
 
           <div className="mt-16 text-center">
             <h2 className="text-3xl font-bold mb-4">Lemonades</h2>
-            <p>Pink Devil • Sinful Sunset • Lethal Lemon</p>
+            <p>Pink Angel • Sinful Sunset • Lethal Lemon</p>
           </div>
 
           <div className="mt-12 text-center">
